@@ -306,6 +306,7 @@ padding: 5em;
     display: grid;
     justify-items: center;
     align-content: center;
+    background-color: rgba(0, 0, 0, 0.55);
   }
   .overlay h1 {
     text-align: center;
